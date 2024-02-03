@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "items",
+  "cookingtime": 200,
+  "experience": 1,
+  "ingredient": {
+    "item": "yaroslavia:yar"
+  },
+  "result": "yaroslavia:moonshard"
+}

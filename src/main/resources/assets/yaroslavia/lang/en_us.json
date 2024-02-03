@@ -1,3 +1,9 @@
 {
-  "item.yaroslavia.moonshard" : "MoonShard"
+  "item.yaroslavia.moonshard" : "MoonShard",
+  "item.yaroslavia.yar" : "Yar",
+
+  "creativetab.yaroslavia" : "Yar",
+
+  "block.yaroslavia.yarilo" : "YARILO",
+  "block.yaroslavia.yar_stone" : "Yaroslav"
 }

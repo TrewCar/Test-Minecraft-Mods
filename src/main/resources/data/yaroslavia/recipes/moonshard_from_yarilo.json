@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "yaroslavia:yarilo"
+    }
+  ],
+  "result" : {
+    "item": "yaroslavia:moonshard",
+    "count": 9
+  }
+}
